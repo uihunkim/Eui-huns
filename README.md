@@ -1,15 +1,19 @@
 # Eui-huns
-# 김의훈 - iOS 개발자 포트폴리오 👨‍💻
+# 김의훈 - iOS/Android 개발자 포트폴리오 👨‍💻
 
 ## 🛠 기술 스택
-### 개발 환경
+### iOS 개발 환경
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-## 📱 주요 참여 프로젝트
+### Android 개발 환경
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
 
+## 📱 iOS 프로젝트 (App Store 등록)
 ### 1. 대구로 
 **개발 환경**: Swift, Xcode, Git, RESTful API
 
@@ -80,12 +84,52 @@
 - 주문 완료 시 SMS 기능
   - 주문 완료 시 SMS 알림을 통해 사용자에게 실시간 알림 제공
 
+## 💻 Android 프로젝트
+### 1. 인맥고리
+**개발 환경**: Android, Java, SVN
+
+**프로젝트 개요**
+- 내 주변의 친구들을 주변 지인에게 소개시켜주는 소셜 네트워킹 어플리케이션
+- ※ 사업 철수로 인해 현재 PlayStore에서 서비스 종료
+
+**주요 기능**
+- 실시간 채팅 시스템
+  - 1:1 채팅 및 그룹채팅 기능 구현
+  - 실시간 메시지 알림 시스템 개발
+- 사용자 프로필 관리
+  - 프로필 사진 업로드 및 관리 기능
+  - 개인정보 설정 및 수정 기능
+- 친구 추천 시스템
+  - 연락처 연동을 통한 지인 추천 알고리즘 구현
+  - 위치 기반 주변 친구 찾기 기능
+
+### 2. 만물상
+**개발 환경**: Android, Java, SVN
+
+**프로젝트 개요**
+- 소셜 기능이 접목된 종합 쇼핑몰 애플리케이션
+- ※ 사업 철수로 인해 현재 PlayStore에서 서비스 종료
+
+**주요 기능**
+- 상품 관리 시스템
+  - 카테고리별 상품 목록 및 상세 정보 제공
+  - 상품 검색 및 필터링 기능
+- 장바구니 및 주문 관리
+  - 장바구니 담기/수정/삭제 기능
+  - 주문 내역 조회 및 배송 추적
+- 결제 시스템
+  - 다양한 결제 수단 연동
+  - 포인트 및 쿠폰 적용 기능
+- 소셜 기능
+  - 상품 리뷰 및 평점 시스템
+  - 상품 공유 및 추천 기능
+
 ## 👨‍💻 전문 분야
-- iOS 애플리케이션 개발 및 유지보수
+- iOS/Android 크로스 플랫폼 개발 경험
 - 결제 시스템 및 위치 기반 서비스 구현
-- 다양한 외부 API 연동 및 커스텀
-- 직관적인 사용자 인터페이스 설계
-- 실시간 데이터 처리 및 푸시 알림 시스템
+- 실시간 채팅 및 푸시 알림 시스템 개발
+- RESTful API 연동 및 커스터마이징
+- 소셜 네트워크 서비스 개발
 
 ## 📫 연락처
 - **이메일**: [hun30106@gmail.com](mailto:hun30106@gmail.com)
