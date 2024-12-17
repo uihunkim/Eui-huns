@@ -16,7 +16,7 @@
 ## 📱 iOS 프로젝트 (App Store 등록)
 ### 1. 대구로 
 **개발 환경**: Swift, Xcode, Git, RESTful API
-** URL ** : https://apps.apple.com/us/app/id1572960675
+**URL**: https://apps.apple.com/us/app/id1572960675
 
 **프로젝트 개요**
 - iOS 버전 신규 개발 및 유지보수를 수행했으며, 음식 주문/배달, 꽃 배달, 대리운전 서비스를 통합 제공하는 플랫폼입니다.
@@ -40,7 +40,7 @@
 
 ### 2. IS플렉스 
 **개발 환경**: Swift, Xcode, Git, RESTful API
-** URL ** : https://apps.apple.com/us/app/id6476477031
+**URL**: https://apps.apple.com/us/app/id6476477031
 
 **프로젝트 개요**
 - 기사와 사용자 간 원활한 주문 및 관리 시스템을 제공하는 플랫폼의 iOS 버전 개발에 참여했습니다.
@@ -66,7 +66,7 @@
 
 ### 3. 모모퀵서비스
 **개발 환경**: Swift, Xcode, Git, RESTful API
-** URL ** : https://apps.apple.com/us/app/id6503284151
+**URL**: https://apps.apple.com/us/app/id6503284151
 
 **프로젝트 개요**
 - 퀵서비스 접수를 위한 iOS 어플리케이션 개발에 참여했으며, 사용자 편의성과 안정성을 중심으로 다양한 기능을 구현했습니다.
