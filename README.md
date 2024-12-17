@@ -15,8 +15,8 @@
 
 ## 📱 iOS 프로젝트 (App Store 등록)
 ### 1. 대구로 
-**개발 환경**: Swift, Xcode, Git, RESTful API
-**URL**: https://apps.apple.com/us/app/id1572960675
+**개발 환경**: Swift, Xcode, Git, RESTful API \n
+**URL** : https://apps.apple.com/us/app/id1572960675
 
 **프로젝트 개요**
 - iOS 버전 신규 개발 및 유지보수를 수행했으며, 음식 주문/배달, 꽃 배달, 대리운전 서비스를 통합 제공하는 플랫폼입니다.
